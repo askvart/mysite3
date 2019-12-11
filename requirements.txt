@@ -2,7 +2,7 @@ cmdy==0.2.0
 colorama==0.4.3
 completions==0.0.7
 diot==0.0.6
-Django==2.2.3
+Django==2.2.8
 django-taggit==1.2.0
 inflection==0.3.1
 Markdown==3.1.1
